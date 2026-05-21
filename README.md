@@ -1,4 +1,4 @@
-# Hi, I'm Idan Agam
+# Hi there
 
 I'm a Software Development Engineer at Microsoft, focused on **AI-powered product experiences**, **agentic systems**, and **full-stack engineering**.
 
