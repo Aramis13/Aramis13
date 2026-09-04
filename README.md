@@ -22,7 +22,6 @@ Explore my interactive 3D career portfolio:
 ## Selected work
 
 - **Interactive 3D Career Portfolio** — a solar-system-inspired portfolio built with Next.js, React, TypeScript, and Three.js
-- **Norn** — local-first agentic finance analysis app
 - **Portfolio Manager** — NASDAQ stock portfolio management project
 - **Kiwi Budget** — social budget management web app
 - **Heritability Calculator** — biological data analysis project
